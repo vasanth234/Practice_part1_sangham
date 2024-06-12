@@ -1,0 +1,24 @@
+.tree-view {
+    font-family: Arial, sans-serif;
+  }
+  
+  .tree-node {
+    margin-left: 20px;
+  }
+  
+  .node-content {
+    cursor: pointer;
+  }
+  
+  .toggle {
+    margin-right: 5px;
+  }
+  
+  .open {
+    transform: rotate(90deg);
+  }
+  
+  .children {
+    margin-left: 20px;
+  }
+  
